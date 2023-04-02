@@ -1,50 +1,92 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am currently a postdoctoral researcher at [UCSD](https://ucsd.edu/), where I work with [Barna Saha](https://barnasaha.net/) and [Yusu Wang](http://yusu.belkin-wang.org/). Prior to joining UCSD, I obtained my PhD in Computer Science under the supervision of [Andrei Bulatov](https://www.cs.sfu.ca/~abulatov/) at [SFU](https://www.sfu.ca/). I also completed my master's degree in the Mathematics Department at SFU, working with [Cedric Chauve](https://www.sfu.ca/math/people/faculty/cchauve.html) and [Ladislav Stacho](https://www.sfu.ca/~lstacho/Ladislav_Stachos_site/About_Me.html). I obtained my BSc in Computer Science from the University of Tehran.
+In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com/), where I was supervised by [Mani Malek](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiW_rz22Yf-AhVsPUQIHZREBjEQFnoECAsQAQ&amp;url=https%3A%2F%2Fca.linkedin.com%2Fin%2Fmalekesmaeili&amp;usg=AOvVaw1ISqGOyI1SvKmM6GiP_qFz) and [Ilya Mironov](https://ai.facebook.com/people/ilya-mironov/). I also completed an internship at [NII - Tokyo, Japan](https://www.nii.ac.jp/en/), where I was supervised by [Yuichi Yoshida](http://research.nii.ac.jp/~yyoshida/).
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Research Interest**: I have a broad interest in theoretical computer science and algorithm design. In particular, I am interested in Constraint Satisfaction Problems (CSPs), Ideal Membership Problems, Algebraic (Geometry) Approaches to Complexity Classification, Approximation Algorithms, Discrete/Continuous/Combinatorial Optimization, Optimization of Submodular Functions, Differential Privacy, and Sparsification. Additionally, I am developing an interest in privacy and distributed settings.
 
-A data-driven personal website
+
+
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+(Unless stated otherwise, author names are in alphabetical order.)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**On the Complexity of CSP-based Ideal Membership Problems.**
+<br>
+Andrei A. Bulatov, **Akbar Rafiey**.
+<br>
+ACM Symposium on Theory of Computing (**STOC 2022**)
 
-Getting started
+**Sparsification of Decomposable Submodular Functions.** 
+<br>
+**Akbar Rafiey**, Yuichi Yoshida.
+<br>
+Association for the Advancement of Artificial Intelligence (**AAAI 2022**)
+
+**The Ideal Membership Problem and Abelian Groups.**
+<br> 
+Andrei A. Bulatov, **Akbar Rafiey**.
+<br>
+Symposium on Theoretical Aspects of Computer Science (**STACS 2022**)
+
+**Private Boosted Decision Trees via Smooth Re-Weighting.** 
+<br>
+Vahid R. Asadi, Marco L. Carmosino, Mohammadmahdi Jahanara, **Akbar Rafiey**, Bahar Sala-
+matian.
+<br>
+Theory and Practice of Differential Privacy Workshop, International Conference on Machine Learning (**ICML 2021**)
+
+**Fast and Private Submodular and k-Submodular Functions Maximization with Matroid Constraints.** 
+<br>
+**Akbar Rafiey**, Yuichi Yoshida.
+<br>
+International Conference on Machine Learning (**ICML 2020**)
+
+**Toward a Dichotomy for Approximation of H-coloring.** 
+<br>
+**Akbar Rafiey**, Arash Rafiey, Thiago Santos.
+<br>
+International Colloquium on Automata, Languages and Programming, (**ICALP 2019**)
+
+**Approximation Algorithms for Generalized MST and TSP in Grid Clusters.** 
+<br>
+Binay K. Bhattacharya, Ante Custic, **Akbar Rafiey**, Arash Rafiey, Vladyslav Sokol.
+<br>
+Combinatorial Optimization and Applications (**COCOA 2015**)
+
+
+
+Preprints
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Bi-arc digraphs and conservative polymorphism.** 
+<br>
+Pavol Hell, **Akbar Rafiey**, Arash Rafiey.
+<br>
+Preprint, (**ArXiv, 2020**)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Counting Maximal Near Perfect Matchings in Quasirandom and Dense Graphs.** 
+<br>
+Yifan Jing, **Akbar Rafiey**.
+<br>
+Preprint, (**ArXiv 2019**)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**MaxTiC: Fast Ranking Of A Phylogenetic Tree By Maximum Time Consistency With Lateral Gene Transfers.** 
+<br>
+Cedric Chauve, **Akbar Rafiey**, Adrian A. Davin, Celine Scornavacca, Philippe Veber, Bastien Boussau, Gergely Szollosi, Vincent Daubin, Eric Tannier Eric Tannier.
+<br>
+Preprint (**bioRxiv, 2017**)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Ordering with Precedence Constraints and Budget Minimization.** 
+<br>
+**Akbar Rafiey**, Jeff Kinne, Jan Manuch, Arash Rafiey.
+<br>
+Preprint, (**ArXiv 2015**)
