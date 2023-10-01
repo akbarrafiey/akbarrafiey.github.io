@@ -45,7 +45,7 @@ matian.
 <br>
 Theory and Practice of Differential Privacy Workshop, International Conference on Machine Learning (**ICML 2021**)
 <br>
-Journal of Privacy and Confidentiality Vol. 13 No. 1 (2023)
+**Journal of Privacy and Confidentiality Vol. 13 No. 1 (2023)**
 
 **Fast and Private Submodular and k-Submodular Functions Maximization with Matroid Constraints.** 
 <br>
