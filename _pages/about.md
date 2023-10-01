@@ -10,9 +10,11 @@ redirect_from:
 I am currently a postdoctoral researcher at [UCSD](https://ucsd.edu/), where I work with [Barna Saha](https://barnasaha.net/) and [Yusu Wang](http://yusu.belkin-wang.org/). Prior to joining UCSD, I obtained my PhD in Computer Science under the supervision of [Andrei Bulatov](https://www.cs.sfu.ca/~abulatov/) at [SFU](https://www.sfu.ca/). I also completed my master's degree in the Mathematics Department at SFU, working with [Cedric Chauve](https://www.sfu.ca/math/people/faculty/cchauve.html) and [Ladislav Stacho](https://www.sfu.ca/~lstacho/Ladislav_Stachos_site/About_Me.html). I obtained my BSc in Computer Science from the University of Tehran.
 In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com/), where I was supervised by [Mani Malek](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiW_rz22Yf-AhVsPUQIHZREBjEQFnoECAsQAQ&amp;url=https%3A%2F%2Fca.linkedin.com%2Fin%2Fmalekesmaeili&amp;usg=AOvVaw1ISqGOyI1SvKmM6GiP_qFz) and [Ilya Mironov](https://ai.facebook.com/people/ilya-mironov/). I also completed an internship at [NII - Tokyo, Japan](https://www.nii.ac.jp/en/), where I was supervised by [Yuichi Yoshida](http://research.nii.ac.jp/~yyoshida/).
 
-**Research Interest**: I have a broad interest in theoretical computer science and algorithm design. In particular, I am interested in Constraint Satisfaction Problems (CSPs), Ideal Membership Problems, Algebraic (Geometry) Approaches to Complexity Classification, Approximation Algorithms, Discrete/Continuous/Combinatorial Optimization, Optimization of Submodular Functions, Differential Privacy, and Sparsification. Additionally, I am developing an interest in privacy and distributed settings. 
+**Research Interest**: I have a broad interest in theoretical computer science and algorithm design. In particular, I am interested in Constraint Satisfaction Problems (CSPs), Ideal Membership Problems, Algebraic (Geometry) Approaches to Complexity Classification, Optimization of Submodular Functions, (Differential) Privacy, and Sparsification. 
 
-
+Teaching
+======
+This quarter I am co-teaching [DSC 40B – Theoretical Foundations of Data Science II](https://dsc40b.com) at [HDSI](https://datascience.ucsd.edu) with [Justin Eldridge](https://eldridgejm.github.io).
 
 Publications
 ======
@@ -42,6 +44,8 @@ Vahid R. Asadi, Marco L. Carmosino, Mohammadmahdi Jahanara, **Akbar Rafiey**, Ba
 matian.
 <br>
 Theory and Practice of Differential Privacy Workshop, International Conference on Machine Learning (**ICML 2021**)
+<br>
+Journal of Privacy and Confidentiality Vol. 13 No. 1 (2023)
 
 **Fast and Private Submodular and k-Submodular Functions Maximization with Matroid Constraints.** 
 <br>
