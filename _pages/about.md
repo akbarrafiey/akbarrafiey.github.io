@@ -14,11 +14,29 @@ In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com
 
 Teaching
 ======
-This quarter I am co-teaching [DSC 40B – Theoretical Foundations of Data Science II](https://dsc40b.com) at [HDSI](https://datascience.ucsd.edu) with [Justin Eldridge](https://eldridgejm.github.io).
+This quarter I am teaching [DSC 40B – Theoretical Foundations of Data Science II](https://akbarrafiey.github.io/DSC40B-SP24/) at [HDSI](https://datascience.ucsd.edu).
 
 Publications
 ======
 (Unless stated otherwise, author names are in alphabetical order.)
+
+**Decomposable Submodular Maximization in Federated Setting.**
+<br>
+**Akbar Rafiey**
+<br>
+[arXiv](https://arxiv.org/pdf/2402.00138.pdf)
+
+**Inapproximability of H-Coloring Problems.**
+<br>
+**Akbar Rafiey**, Arash Rafiey
+<br>
+[Comming Soon](#)
+
+**Bi-arc Digraphs: Recognition Algorithm and Applications.**
+<br>
+Pavol Hell, **Akbar Rafiey**, Arash Rafiey
+<br>
+Latin American Symposium on Theoretical Informatics ([**LATIN 2024**](https://link.springer.com/chapter/10.1007/978-3-031-55601-2_3))
 
 **On the Complexity of CSP-based Ideal Membership Problems.**
 <br>
