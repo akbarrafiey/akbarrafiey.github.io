@@ -34,7 +34,7 @@ Publications
 
 **Inapproximability of H-Coloring Problems.**
 <br>
-**Akbar Rafiey**, Arash Rafiey
+Kamyar Khodamoradi, **Akbar Rafiey**, Arash Rafiey
 <br>
 [Comming Soon](#)
 
