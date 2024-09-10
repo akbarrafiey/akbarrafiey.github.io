@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at [UCSD](https://ucsd.edu/), where I work with [Barna Saha](https://barnasaha.net/) and [Yusu Wang](http://yusu.belkin-wang.org/). Prior to joining UCSD, I obtained my PhD in Computer Science under the supervision of [Andrei Bulatov](https://www.cs.sfu.ca/~abulatov/) at [SFU](https://www.sfu.ca/). I also completed my master's degree in the Mathematics Department at SFU, working with [Cedric Chauve](https://www.sfu.ca/math/people/faculty/cchauve.html) and [Ladislav Stacho](https://www.sfu.ca/~lstacho/Ladislav_Stachos_site/About_Me.html). I obtained my BSc in Computer Science from the University of Tehran.
+I am a Visiting Assistant Professor of Computer Science and Engineering at [New York University's Tandon School of Engineering](https://engineering.nyu.edu).
+Before, I was a postdoctoral researcher at [HDSI](https://datascience.ucsd.edu)[UCSD](https://ucsd.edu/), where I work with [Barna Saha](https://barnasaha.net/) and [Yusu Wang](http://yusu.belkin-wang.org/). I obtained my PhD in Computer Science under the supervision of [Andrei Bulatov](https://www.cs.sfu.ca/~abulatov/) at [SFU](https://www.sfu.ca/). I also completed my master's degree in the Mathematics Department at SFU, working with [Cedric Chauve](https://www.sfu.ca/math/people/faculty/cchauve.html) and [Ladislav Stacho](https://www.sfu.ca/~lstacho/Ladislav_Stachos_site/About_Me.html). I obtained my BSc in Computer Science from the University of Tehran.
 In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com/), where I was supervised by [Mani Malek](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiW_rz22Yf-AhVsPUQIHZREBjEQFnoECAsQAQ&amp;url=https%3A%2F%2Fca.linkedin.com%2Fin%2Fmalekesmaeili&amp;usg=AOvVaw1ISqGOyI1SvKmM6GiP_qFz) and [Ilya Mironov](https://ai.facebook.com/people/ilya-mironov/). I also completed an internship at [NII - Tokyo, Japan](https://www.nii.ac.jp/en/), where I was supervised by [Yuichi Yoshida](http://research.nii.ac.jp/~yyoshida/).
 
 **Research Interest**: I have a broad interest in theoretical computer science and algorithm design. In particular:
@@ -20,7 +21,10 @@ In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com
 
 Teaching
 ======
-This quarter I am teaching [DSC 40B – Theoretical Foundations of Data Science II](https://akbarrafiey.github.io/DSC40B-SP24/) at [HDSI](https://datascience.ucsd.edu).
+- This semester I am teaching [CS-GY 6923 Machine Learning](https://akbarrafiey.github.io/ML6923/) at [NYU Tandon](https://engineering.nyu.edu).
+
+- [DSC 40B – Theoretical Foundations of Data Science II](https://akbarrafiey.github.io/DSC40B-SP24/) at [HDSI](https://datascience.ucsd.edu).
+  - Spring 2024, Fall 2023
 
 Publications
 ======
