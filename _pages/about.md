@@ -21,14 +21,22 @@ In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com
 
 Teaching
 ======
-- This semester I am teaching [CS-GY 6923 Machine Learning](https://akbarrafiey.github.io/ML6923/) at [NYU Tandon](https://engineering.nyu.edu).
+- Fall 2025 (upcoming): [CS-GY 6923 Machine Learning](#) at [NYU Tandon](https://engineering.nyu.edu).
 
-- [DSC 40B – Theoretical Foundations of Data Science II](https://akbarrafiey.github.io/DSC40B-SP24/) at [HDSI](https://datascience.ucsd.edu).
-  - Spring 2024, Fall 2023
+- Fall 2024: [CS-GY 6923 Machine Learning](https://akbarrafiey.github.io/ML6923/) at [NYU Tandon](https://engineering.nyu.edu).
+
+- Fall 2023, Spring 2024: [DSC 40B – Theoretical Foundations of Data Science II](https://akbarrafiey.github.io/DSC40B-SP24/) at [HDSI](https://datascience.ucsd.edu).
+
 
 Publications
 ======
-(Unless stated otherwise, author names are in alphabetical order.)
+
+**Differentiable Extensions with Rounding Guarantees for Combinatorial Optimization over Permutations.**
+<br>
+Robert R Nerem, Zhishang Luo, **Akbar Rafiey**, Yusu Wang
+<br>
+[arXiv](https://arxiv.org/pdf/2411.10707)
+
 
 **Decomposable Submodular Maximization in Federated Setting.**
 <br>
@@ -36,13 +44,8 @@ Publications
 <br>
 International Conference on Machine Learning (**ICML 2024**)
 <br>
-[arXiv](https://arxiv.org/pdf/2402.00138.pdf)
+[Link](https://openreview.net/pdf?id=SAbZExIIgG)
 
-**Inapproximability of H-Coloring Problems.**
-<br>
-Kamyar Khodamoradi, **Akbar Rafiey**, Arash Rafiey
-<br>
-[Comming Soon](#)
 
 **Bi-arc Digraphs: Recognition Algorithm and Applications.**
 <br>
@@ -116,6 +119,13 @@ Combinatorial Optimization and Applications (**COCOA 2015**)
 
 Miscellaneous
 ======
+**Inapproximability of H-Coloring Problems.**
+<br>
+Kamyar Khodamoradi, **Akbar Rafiey**, Arash Rafiey
+<br>
+[Working Paper](#)
+
+
 **Bi-arc digraphs and conservative polymorphism.** 
 <br>
 Pavol Hell, **Akbar Rafiey**, Arash Rafiey.
