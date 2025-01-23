@@ -21,7 +21,7 @@ In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com
 
 Teaching
 ======
-- Spring 2025: [CS-GY 6923 Machine Learning](#) at [NYU Tandon](https://engineering.nyu.edu).
+- Spring 2025: [CS-GY 6923 Machine Learning](https://akbarrafiey.github.io/sp25-ml6923/) at [NYU Tandon](https://engineering.nyu.edu).
 
 - Fall 2024: [CS-GY 6923 Machine Learning](https://akbarrafiey.github.io/ML6923/) at [NYU Tandon](https://engineering.nyu.edu).
 
