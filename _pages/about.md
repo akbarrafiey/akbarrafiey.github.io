@@ -43,11 +43,6 @@ Jesse He, **Akbar Rafiey**, Gal Mishne, Yusu Wang
 <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025**)
 
-**Federated Submodular Maximization: Improved Communication Rounds and Bit Complexity.**
-<br>
-**Akbar Rafiey**, Sreeharsh Namani, Neophytos Charalambides 
-<br>
-ICML 2025 Workshop on Collaborative and Federated Agentic Workflows (**CFAgentic @ ICML'25**)
 
 **Decomposable Submodular Maximization in Federated Setting.**
 <br>
