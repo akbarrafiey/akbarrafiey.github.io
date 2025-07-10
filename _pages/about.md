@@ -49,7 +49,9 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025**)
 <br>
 **Akbar Rafiey**, Sreeharsh Namani, Neophytos Charalambides
 <br>
-ICML 2025 Workshop on Collaborative and Federated Agentic Workflows
+ICML 2025 Workshop on Collaborative and Federated Agentic Workflows (**CFAgentic @ ICML'25**)
+<br>
+**Oral** presentation at International Joint Workshop on Federated Learning (**FedKDD 2025**)
 <br>
 [Link](https://openreview.net/pdf?id=mJOTugzKID)
 
