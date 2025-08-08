@@ -51,7 +51,7 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025**)
 <br>
 ICML 2025 Workshop on Collaborative and Federated Agentic Workflows (**CFAgentic @ ICML'25**)
 <br>
-**Oral presentation** at International Joint Workshop on Federated Learning (**FedKDD 2025**)
+**Best Paper Runner-up** and **Oral presentation** at International Joint Workshop on Federated Learning (**FedKDD 2025**)
 <br>
 [Link](https://openreview.net/pdf?id=mJOTugzKID)
 
@@ -137,12 +137,6 @@ Combinatorial Optimization and Applications (**COCOA 2015**)
 
 Miscellaneous
 ======
-**Inapproximability of H-Coloring Problems.**
-<br>
-Kamyar Khodamoradi, **Akbar Rafiey**, Arash Rafiey
-<br>
-[Working Paper](#)
-
 
 **Bi-arc digraphs and conservative polymorphism.** 
 <br>
