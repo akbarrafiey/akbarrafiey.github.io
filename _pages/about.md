@@ -31,9 +31,17 @@ Teaching
 Publications
 ======
 
+**Geometric Algorithms for Neural Combinatorial Optimization with Constraints.**
+<br>
+Nikolaos Karalias<sup>*</sup>, **Akbar Rafiey<sup>*</sup>**, Yifei Xu, Zhishang Luo, Behrooz Tahmasebi, Connie Jiang, Stefanie Jegelka
+<br>
+39th Annual Conference on Neural Information Processing Systems (**NeurIPS 2025**)
+
 **Differentiable Extensions with Rounding Guarantees for Combinatorial Optimization over Permutations.**
 <br>
 Robert R Nerem, Zhishang Luo, **Akbar Rafiey**, Yusu Wang
+<br>
+39th Annual Conference on Neural Information Processing Systems (**NeurIPS 2025**)
 <br>
 [arXiv](https://arxiv.org/pdf/2411.10707)
 
