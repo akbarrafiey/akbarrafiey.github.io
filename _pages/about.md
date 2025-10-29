@@ -19,6 +19,19 @@ In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com
 - Machine Learning and Learning Theory
   - Learning-enabled (combinatorial) optimizations
 
+
+Events
+======
+- We are organizing [NYC Student Theory Day](https://nairenc.github.io/nyu/nycStudentTheoryDay2025Fall.html), which will take place on Friday, November 21, 2025, at NYU Tandon. Join us for a full day of exciting theory and ML talks featuring students from institutions across the NYC area.
+
+  **Registration details:**
+  - Attendance is free.
+  - Please register by the posted deadline to secure your spot.
+  - For more information and to register, visit the [event page]((https://nairenc.github.io/nyu/nycStudentTheoryDay2025Fall.html)).
+
+- We are holding NYU's in-person [CS Theory Seminar](https://csefoundations.engineering.nyu.edu/seminar.html) on Thursdays. You can also sign up for the [email list](https://groups.google.com/u/0/a/nyu.edu/g/cs-theory-seminar/) to receive announcements about upcoming talks.
+
+
 Teaching
 ======
 - Spring 2025: [CS-GY 6923 Machine Learning](https://akbarrafiey.github.io/sp25-ml6923/) at [NYU Tandon](https://engineering.nyu.edu).
@@ -36,6 +49,8 @@ Publications
 Nikolaos Karalias<sup>*</sup>, **Akbar Rafiey<sup>*</sup>**, Yifei Xu, Zhishang Luo, Behrooz Tahmasebi, Connie Jiang, Stefanie Jegelka
 <br>
 39th Annual Conference on Neural Information Processing Systems (**NeurIPS 2025**)
+<br>
+[arXiv](https://arxiv.org/pdf/2510.24039)
 
 **Differentiable Extensions with Rounding Guarantees for Combinatorial Optimization over Permutations.**
 <br>
