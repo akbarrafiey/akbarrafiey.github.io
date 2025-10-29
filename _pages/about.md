@@ -22,9 +22,7 @@ In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com
 
 Events
 ======
-- We are organizing [NYC Student Theory Day](https://nairenc.github.io/nyu/nycStudentTheoryDay2025Fall.html), which will take place on Friday, November 21, 2025, at NYU Tandon. Join us for a full day of exciting theory and ML talks featuring students from institutions across the NYC area.
-
-For more information and to register, visit the [event page](https://nairenc.github.io/nyu/nycStudentTheoryDay2025Fall.html).
+- We are organizing [NYC Student Theory Day](https://nairenc.github.io/nyu/nycStudentTheoryDay2025Fall.html), which will take place on Friday, November 21, 2025, at NYU Tandon. Join us for a full day of exciting theory and ML talks featuring students from institutions across the NYC area. For more information and to register, visit the [event page](https://nairenc.github.io/nyu/nycStudentTheoryDay2025Fall.html).
 
 - We are holding NYU's in-person [CS Theory Seminar](https://csefoundations.engineering.nyu.edu/seminar.html) on Thursdays. You can also sign up for the [email list](https://groups.google.com/u/0/a/nyu.edu/g/cs-theory-seminar/) to receive announcements about upcoming talks.
 
