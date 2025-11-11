@@ -45,7 +45,7 @@ Nikolaos Karalias<sup>*</sup>, **Akbar Rafiey<sup>*</sup>**, Yifei Xu, Zhishang 
 <br>
 39th Annual Conference on Neural Information Processing Systems (**NeurIPS 2025**)
 <br>
-[arXiv](https://arxiv.org/pdf/2510.24039)
+[arXiv](https://arxiv.org/pdf/2510.24039) . Check out Nikolaos's [blog post](https://stalence.github.io/posts/2025-10-30/Geometric_Extensions.html) for a nice summary of the paper.
 
 **Differentiable Extensions with Rounding Guarantees for Combinatorial Optimization over Permutations.**
 <br>
