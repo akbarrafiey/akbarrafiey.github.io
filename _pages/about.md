@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Visiting Assistant Professor of Computer Science and Engineering at [New York University's Tandon School of Engineering](https://engineering.nyu.edu).
+I am a ML Research Team Lead at [RBC Borealis](https://rbcborealis.com) and a Visiting Assistant Professor of Computer Science and Engineering at [New York University's Tandon School of Engineering](https://engineering.nyu.edu).
 Before, I was a postdoctoral researcher at [HDSI](https://datascience.ucsd.edu)[UCSD](https://ucsd.edu/), where I work with [Barna Saha](https://barnasaha.net/) and [Yusu Wang](http://yusu.belkin-wang.org/). I obtained my PhD in Computer Science under the supervision of [Andrei Bulatov](https://www.cs.sfu.ca/~abulatov/) at [SFU](https://www.sfu.ca/). I also completed my master's degree in the Mathematics Department at SFU, working with [Cedric Chauve](https://www.sfu.ca/math/people/faculty/cchauve.html) and [Ladislav Stacho](https://www.sfu.ca/~lstacho/Ladislav_Stachos_site/About_Me.html). I obtained my BSc in Computer Science from the University of Tehran.
 In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com/), where I was supervised by [Mani Malek](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiW_rz22Yf-AhVsPUQIHZREBjEQFnoECAsQAQ&amp;url=https%3A%2F%2Fca.linkedin.com%2Fin%2Fmalekesmaeili&amp;usg=AOvVaw1ISqGOyI1SvKmM6GiP_qFz) and [Ilya Mironov](https://ai.facebook.com/people/ilya-mironov/). I also completed an internship at [NII - Tokyo, Japan](https://www.nii.ac.jp/en/), where I was supervised by [Yuichi Yoshida](http://research.nii.ac.jp/~yyoshida/).
 
@@ -15,13 +15,16 @@ In 2022, I interned as an AI Research Scientist at [Meta](https://about.meta.com
 - Algorithms and Combinatorial Optimization
   - Constraint satisfaction problems (CSPs), submodular optimization, sparsification
 - Responsible AI and Optimization
-  - Differential privacy, federated learning, fairness
+  - Differential privacy, federated learning
 - Machine Learning and Learning Theory
   - Learning-augmented (combinatorial) optimizations
 
 
 Events
 ======
+
+- We are organizing [NYC Student Theory Day](https://wp.nyu.edu/courantinstituteofmathematicalsciences-nycstudenttheorydayfall2027/), which will take place on Friday, November 06, 2026, at NYU Tandon. Join us for a full day of exciting theory and ML talks featuring students from institutions across the NYC area. For more information and to register, visit the [event page](https://wp.nyu.edu/courantinstituteofmathematicalsciences-nycstudenttheorydayfall2027/). **The event is sponsored by RBC Borealis.**
+- Tutorial on Privacy in Machine Learning: From Foundations to Foundation Models at [AI In Finance Summer School, 2026](https://www.aifsummerschool.com).
 - We are organizing [NYC Student Theory Day](https://nairenc.github.io/nyu/nycStudentTheoryDay2025Fall.html), which will take place on Friday, November 21, 2025, at NYU Tandon. Join us for a full day of exciting theory and ML talks featuring students from institutions across the NYC area. For more information and to register, visit the [event page](https://nairenc.github.io/nyu/nycStudentTheoryDay2025Fall.html).
 
 - We are holding NYU's in-person [CS Theory Seminar](https://csefoundations.engineering.nyu.edu/seminar.html) on Thursdays. You can also sign up for the [email list](https://groups.google.com/u/0/a/nyu.edu/g/cs-theory-seminar/) to receive announcements about upcoming talks.
@@ -38,6 +41,18 @@ Teaching
 
 Publications
 ======
+
+**The Price of Privacy For Approximating Max-CSP.**
+<br>
+Prathamesh Dharangutte, Jingcheng Liu, Pasin Manurangsi, **Akbar Rafiey**, Phanu Vajanopath, Zongrui Zou
+<br>
+18th Innovations in Theoretical Computer Science Conference (**ITCS 2027**)
+
+**Settling the Support Complexity of Correlated Equilibria.**
+<br>
+Ashkan Soleymani, Patrick Jaillet, Gabriele Farina, **Akbar Rafiey**
+<br>
+18th Innovations in Theoretical Computer Science Conference (**ITCS 2027**)
 
 **Geometric Algorithms for Neural Combinatorial Optimization with Constraints.**
 <br>
