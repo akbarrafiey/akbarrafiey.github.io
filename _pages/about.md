@@ -54,6 +54,15 @@ Ashkan Soleymani, Patrick Jaillet, Gabriele Farina, **Akbar Rafiey**
 <br>
 18th Innovations in Theoretical Computer Science Conference (**ITCS 2027**)
 
+
+**StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection**
+<br>
+Zhuoxin Zhan, **Akbar Rafiey**, Avery Ma, Leila Pishdad, Layla El Asri
+<br>
+20th Conference of the European Chapter of the Association for Computational Linguistics (**EACL 2027**)
+<br>
+[arXiv](https://arxiv.org/pdf/2608.06477)
+
 **Geometric Algorithms for Neural Combinatorial Optimization with Constraints.**
 <br>
 Nikolaos Karalias<sup>*</sup>, **Akbar Rafiey<sup>*</sup>**, Yifei Xu, Zhishang Luo, Behrooz Tahmasebi, Connie Jiang, Stefanie Jegelka
