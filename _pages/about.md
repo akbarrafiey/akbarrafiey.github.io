@@ -53,7 +53,8 @@ Prathamesh Dharangutte, Jingcheng Liu, Pasin Manurangsi, **Akbar Rafiey**, Phanu
 Ashkan Soleymani, Patrick Jaillet, Gabriele Farina, **Akbar Rafiey**
 <br>
 18th Innovations in Theoretical Computer Science Conference (**ITCS 2027**)
-
+<br>
+[arXiv](https://arxiv.org/pdf/2611.20362)
 
 **StepJack: Benchmarking Computer-Use Agent Safety Against Multi-Step Indirect Prompt Injection**
 <br>
